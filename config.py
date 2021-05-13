@@ -1,3 +1,3 @@
-TOKEN = '1855839150:AAGKwruWNjreug8PIswkjtIH2fAM0VKolIs'
+TOKEN = "#Write here your telegram bot's api"
 
 # pyTelegramBotApi
